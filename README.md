@@ -8,5 +8,7 @@
 3. run `node server.js` or `nodemon server.js`
 4. add an alias into your .bashrc or .zshrc for ease of use
 `alias keys="node PATH_TO_DIRECTORY/server.js"`
-5. get your laptops private ip using `ifconfig` and open http://your_ip:9009/ in your phone
+5. get your laptops private ip using `ifconfig` and open http://your_ip:9009/ in your phone. (make sure phone and laptop are in the same network)
 
+## Usage
+![](https://i.imgur.com/VUJLi77.png)
